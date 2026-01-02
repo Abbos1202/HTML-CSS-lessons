@@ -1,0 +1,40 @@
+ !DOCTYPE html => html5 versiya ekanligini 
+ html => eng katta urab turuvchi va code html  kod ekanligini bildirib turadi 
+ head => nastroykalarni ichiga oladi 
+ 2-meta =>projectni xar xil browserlarda ochilishi
+ 3-xar xil qurilma ekranlariga moslashuvchanligin control qiladi 
+ title => sarlavha 
+ body => browserda korinadigan qism 
+ lorem => text yaratib beradi 
+
+ -------------------------------------------------------------------------
+
+ Basic tags 
+ h1-h6 => h1 dan h6 ga qarab kichrayib boradi 
+ p => paragraph text 
+ pre => vs code kod qanday yozilsa browserda wunday korinadi 
+ hr => gorizontal chiziq 
+ br => joy tashlash 
+ i/em => textni italic qiladi, em semantic jihatdan kuchli 
+ b/strong => textni bold(jirniy) qiladi, strong semantic jihatdan kuchli 
+ del => text ustiga chiziq tortadi 
+ u => underline 
+ sup => darajaga quyadi 
+ sub => pastga tushiradi 
+ mark => sariq qilib belgilaydi 
+ q => qushtirnoq 
+ blockquote => abzas 
+ center => markazga olib boradi 
+
+ -------------------------------------------------------------------------
+
+ attribute 
+ align => center, right, left 
+
+ -------------------------------------------------------------------------
+
+ Shortcuts 
+ ctrl + / => comment 
+ ctrl + s => saxranit 
+ ctrl + c => copy  
+ ctrl + c => ctrl + v => text qatorini copy paste qilib ketadi 
